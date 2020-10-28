@@ -1,5 +1,5 @@
 
-backtracking program to serach for L(3,2,1)-labelings of simples graphs
+backtracking program that searches for all L(3,2,1)-labelings of a given simple graph.
 
 ----------------------------
 # L(3,2,1)-labeling
