@@ -7,6 +7,8 @@ backtracking program to serach for L(3,2,1)-labelings of simples graphs
 
 A python program that generates all k-L(3,2,1)-labelings 
 of a simple undirected graph with up to k labels.
+In order to setup the value k, change the value of the variable 
+maxLabel in the program to the desired value.
 
 ------------------
 usage
