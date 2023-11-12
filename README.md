@@ -1,8 +1,7 @@
-
-backtracking program that searches for all L(3,2,1)-labelings of a given simple graph.
-
-----------------------------
 # L(3,2,1)-labeling
+
+A backtracking program that searches for all k-L(3,2,1)-labelings of a given simple graph with a given maximum label k.
+
 ----------------------------
 
 A python program that generates all k-L(3,2,1)-labelings 
